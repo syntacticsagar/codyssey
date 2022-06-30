@@ -13,6 +13,6 @@ defmodule Codyssey2021Elixir do
 
   """
   def hello do
-    :world
+    :world_2
   end
 end
